@@ -65,7 +65,9 @@ Follow these steps to set up and run the Disease Prediction System on your local
 - If the uvicorn is installed
   > uvicorn app.main:app --reload
   - The API will be available at: [http://127.0.0.1:8000/docs](url) (Swagger UI for testing endpoints)
-Screenshot
+
+<img width="1880" height="741" alt="image" src="https://github.com/user-attachments/assets/a597c217-76f3-4044-9ce2-6bdd5c37b75c" />
+
 
 6️⃣ Launch the Streamlit UI __(Bonus)__
 - Install the library Streamlit
