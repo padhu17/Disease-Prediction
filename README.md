@@ -68,6 +68,9 @@ Follow these steps to set up and run the Disease Prediction System on your local
 
 <img width="1880" height="741" alt="image" src="https://github.com/user-attachments/assets/a597c217-76f3-4044-9ce2-6bdd5c37b75c" />
 
+![WhatsApp Image 2025-07-19 at 16 29 48_7f819b0a](https://github.com/user-attachments/assets/c0d44f82-4ed1-4fce-8b19-c43e2ed7c0b8)
+
+
 
 6️⃣ Launch the Streamlit UI __(Bonus)__
 - Install the library Streamlit
