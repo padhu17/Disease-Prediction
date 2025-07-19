@@ -56,7 +56,7 @@ Follow these steps to set up and run the Disease Prediction System on your local
     - A new cleaned and augumented excel file will be created
     - An efficient model will be saved to the pickle files in the model folder.
   - Using the venv 
-  > python model.py
+    > python model.py
 
 5️⃣ Run the Backend API (FastAPI)
 - If the uvicorn is not installed at the time of execution of Step 3
