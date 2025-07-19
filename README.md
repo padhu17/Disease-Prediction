@@ -51,10 +51,10 @@ Follow these steps to set up and run the Disease Prediction System on your local
 4️⃣ Train the Model
 - There are 2 options to train the model
   - Using Jupyter notebook
-  > Directly copy and paste the cells in the jupyter notebook
-  > Run the cells
-  > A new cleaned and augumented excel file will be created
-  > An efficient model will be saved to the pickle files in the model folder.
+    - Directly copy and paste the cells in the jupyter notebook
+    - Run the cells
+    - A new cleaned and augumented excel file will be created
+    - An efficient model will be saved to the pickle files in the model folder.
   - Using the venv 
   > python model.py
 
