@@ -37,13 +37,13 @@ Follow these steps to set up and run the Disease Prediction System on your local
 
 2️⃣ Create and Activate Virtual Environment
 - Create virtual environment
-> python -m venv venv
+  > python -m venv venv
 
 - Activate it
   - On Windows:
-  > venv\Scripts\activate
+    > venv\Scripts\activate
   - On macOS/Linux:
-  > source venv/bin/activate
+    > source venv/bin/activate
 
 3️⃣ Install Required Dependencies
 > pip install -r requirements.txt
