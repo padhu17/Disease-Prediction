@@ -66,8 +66,8 @@ Follow these steps to set up and run the Disease Prediction System on your local
   > uvicorn app.main:app --reload
   - The API will be available at: [http://127.0.0.1:8000/docs](url) (Swagger UI for testing endpoints)
 
-<img width="1880" height="741" alt="image" src="https://github.com/user-attachments/assets/a597c217-76f3-4044-9ce2-6bdd5c37b75c" />
 - This is the Swagger documentation for the given API endpoints.
+<img width="1880" height="741" alt="image" src="https://github.com/user-attachments/assets/a597c217-76f3-4044-9ce2-6bdd5c37b75c" />
 
 ![WhatsApp Image 2025-07-19 at 16 29 48_7f819b0a](https://github.com/user-attachments/assets/c0d44f82-4ed1-4fce-8b19-c43e2ed7c0b8)
 - This is the get method endpoint for fetching all the symptoms of the diseases.
