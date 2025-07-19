@@ -26,3 +26,20 @@ A machine learning-based application that predicts possible diseases based on us
 
 - Based on publicly available medical datasets with symptoms as features and diseases as labels
 - [ https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset](url)
+
+### 🛠️ How to Run Locally
+Follow these steps to set up and run the Disease Prediction System on your local machine.
+
+1️⃣ Clone the Repository
+git clone https://github.com/padhu17/disease-prediction.git
+cd disease-prediction
+
+2️⃣ Create and Activate Virtual Environment
+# Create virtual environment
+python -m venv venv
+
+> Activate it
+> On Windows:
+venv\Scripts\activate
+> On macOS/Linux:
+source venv/bin/activate
