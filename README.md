@@ -2,9 +2,9 @@
 
 A machine learning-based application that predicts possible diseases based on user-input symptoms. This project aims to assist in early diagnosis by analyzing patterns from a dataset of symptoms and corresponding diseases.
 
-####🚀 Features
+#### 🚀 Features
 
-. Predicts disease based on multiple symptom inputs
+- Predicts disease based on multiple symptom inputs
 
 . Trained with popular ML algorithms: Random Forest, Naive Bayes, and SVM
 
