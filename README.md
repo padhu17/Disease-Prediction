@@ -67,9 +67,15 @@ Follow these steps to set up and run the Disease Prediction System on your local
   - The API will be available at: [http://127.0.0.1:8000/docs](url) (Swagger UI for testing endpoints)
 
 <img width="1880" height="741" alt="image" src="https://github.com/user-attachments/assets/a597c217-76f3-4044-9ce2-6bdd5c37b75c" />
+- This is the Swagger documentation for the given API endpoints.
 
 ![WhatsApp Image 2025-07-19 at 16 29 48_7f819b0a](https://github.com/user-attachments/assets/c0d44f82-4ed1-4fce-8b19-c43e2ed7c0b8)
+- This is the get method endpoint for fetching all the symptoms of the diseases.
 
+![WhatsApp Image 2025-07-19 at 16 33 04_c3bc1aef](https://github.com/user-attachments/assets/578b0d13-3022-4f9b-8724-d381ccd90389)
+
+![WhatsApp Image 2025-07-19 at 16 34 15_2c1710cf](https://github.com/user-attachments/assets/4e1072df-1fb3-46ca-af36-c8a409ee455e)
+- This is the post method endpoint for predicting the disease by giving the symptoms int body as raw json.
 
 
 6️⃣ Launch the Streamlit UI __(Bonus)__
@@ -79,6 +85,9 @@ Follow these steps to set up and run the Disease Prediction System on your local
   > streamlit run streamlit_app/app.py
   - This will open a user-friendly interface in your browser at [http://localhost:8501](url)
 
-Screenshot
+![WhatsApp Image 2025-07-19 at 16 42 32_9cfdc311](https://github.com/user-attachments/assets/a12e1283-e907-4884-ad76-1906b70fce3f)
+- This is the Steamlit app UI for predicting the diseases by selecting the symptoms from the dropdown.
+- Can also check the confidence of the model for the predicted disease.
+
 
 
